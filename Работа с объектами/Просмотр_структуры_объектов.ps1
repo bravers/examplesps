@@ -1,0 +1,1 @@
+﻿Get-Process | Get-Member -MemberType Properties
